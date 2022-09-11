@@ -1,0 +1,4 @@
+---
+# vars file for ansible-lighthouse
+#Lighthouse repository
+lighthouse_repo: "https://github.com/VKCOM/lighthouse.git"

@@ -1,0 +1,3 @@
+---
+# defaults file for ansible-lighthouse
+lighthouse_dir: "/var/www/html/lighthouse"
